@@ -1,0 +1,50 @@
+{
+  "name": "ghostshot",
+  "version": "1.0.0",
+  "author": "S. Francis",
+  "license": "MIT",
+  "preferGlobal": "true",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tachyon1337/ghostshot.git"
+  },
+  "bin": {
+    "ghostshot": "./bin/run.js",
+    "phantomjs-osx-10-10": "./bin/phantomjs-osx-10-10"
+  },
+  "keywords": [
+    "cli",
+    "bin",
+    "page",
+    "website",
+    "site",
+    "web",
+    "url",
+    "resolution",
+    "size",
+    "screenshot",
+    "screenshots",
+    "screen",
+    "snapshot",
+    "shot",
+    "responsive",
+    "phantom",
+    "phantomjs",
+    "phantomjs 2",
+    "phantomjs2",
+    "image",
+    "render",
+    "html5",
+    "headless",
+    "capture",
+    "picture",
+    "png",
+    "jpg"
+  ],
+  "dependencies": {
+    "optimist": "^0.6.1",
+    "async": "^1.0.0",
+    "node-parse-url": "^1.0.0",
+    "lodash": "^3.9.2"
+  }
+}
