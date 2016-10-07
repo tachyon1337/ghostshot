@@ -11,7 +11,7 @@ A PhantomJS 2 snapshot app for modern, responsive HTML5 websites. Most of the HT
 $ npm install ghostshot -g 
 ```
 
-*the app currently only supports Mac OS X 10.10(yosemite)*
+*the app currently only supports Mac OS X >=10.10*
 
 
 ## Usage
